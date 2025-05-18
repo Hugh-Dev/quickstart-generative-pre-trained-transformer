@@ -49,7 +49,8 @@ def main():
                                        "¡Estoy aquí para ayudarte!")
                     typewriter_effect(thanks_response)
         else:
-            print("Si, las quesadillas llevan queso.")
+            typewriter_effect("Si, las quesadillas llevan queso.")
+            break
 
 
 if __name__ == "__main__":
