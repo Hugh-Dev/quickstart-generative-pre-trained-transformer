@@ -90,7 +90,7 @@ if __name__ == "__main__":
     main()
 ```
 
-Este ejemplo simula una conversación sencilla con ChatGPT en la terminal usando respuestas contextuales encadenadas (mínimamente). El efecto máquina de escribir da una sensación más “humana”, más real por lo que simula superficialmente una experiencia tipo ChatGPT esto nos trae a un nuevo concepto:
+Este ejemplo simula una conversación sencilla con ChatGPT en la terminal usando respuestas contextuales encadenadas (mínimamente). El efecto máquina de escribir da una sensación más “humana”, más real por lo que simula superficialmente una experiencia de tipo humana, esto nos introduce a un nuevo concepto:
 
 ### Antropomorfismo
 
